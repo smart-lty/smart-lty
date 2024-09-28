@@ -14,7 +14,6 @@
 
 ---
 - ✨ I'm a third-year joint PhD. student at USTC and Shanghai AI Lab. I passionate about effective and efficient inference for AIGC.
-using photography.
 - 🔭 I’m currently working on speculative decoding, a promising technique for acclerating LLM inference.
 - 🌱 I’m currently learning some techniques for better inference performance.
 - 👯 I’m looking to collaborate on relative topics, mainly about inference techniques.

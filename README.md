@@ -39,10 +39,3 @@
 </details>
 
 <!-- GitHub section: END -->
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smart-lty&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
-<!-- THE END -->

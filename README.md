@@ -27,15 +27,3 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smart-lty" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smart-lty&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" height="192px"  width="500px"/>
 </div>
-
-**Expand to view**
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username==smart-lty&show_icons=true" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-</details>
-
-<!-- GitHub section: END -->
